@@ -1,7 +1,6 @@
 # Cavern Desktop
-Cavern Desktop is the first edition of Cavern designed for Windows users. 
-Cavern DE is currently in active development as the first major stepping stone and is designed and programmed in C# at the moment.
-Cavern will completely move to Electron in the future as we grow. 
+Oh no! What happened to the Cavern Source Code?
+Cavern has moved private for the time being. This is for security reasons but the source code will be reuploaded soon!
 
 Go to our website @ https://Cavern.gg
 
